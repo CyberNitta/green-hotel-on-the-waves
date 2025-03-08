@@ -1,3 +1,5 @@
+some day in future:
+
 # 🌊 Green Hotel on the Waves
 
 An innovative 5-star eco-hotel project that harnesses natural energy from waves, light, tides, wind, and solar power.
